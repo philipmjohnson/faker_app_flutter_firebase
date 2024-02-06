@@ -3,6 +3,7 @@ import 'package:faker_app_flutter_firebase/src/screens/custom_sign_in_screen.dar
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
+import 'package:riverpod_annotation/riverpod_annotation.dart';
 
 import 'go_router_refresh_stream.dart';
 
